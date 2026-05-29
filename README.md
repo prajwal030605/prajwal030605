@@ -77,9 +77,8 @@ Led a 3-person team. Owned the architecture, geofencing, and forecasting.
 ## 🏆 Achievements
 
 - 🔥 **300K+ LinkedIn impressions** — Tekken Motion Control (2025)
-- 🟡 **LeetCode** — 210+ problems across arrays, trees, graphs, DP
 - 🥇 **HackerRank Gold** — Python & Java (2024)
-- 🎓 **CGPA 8.0 / 10** — Graphic Era Deemed University
+
 
 ---
 
